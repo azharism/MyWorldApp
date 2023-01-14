@@ -1,0 +1,7 @@
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\MyWorldApp.web.exe
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\appsettings.json
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\MyWorldApp.web.dll
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\MyWorldApp.web.deps.json
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\MyWorldApp.web.runtimeconfig.json
+C:\Users\azhar\MyWorldApp\MyWorldApp.web\bin\Release\net6.0\publish\MyWorldApp.web.pdb
